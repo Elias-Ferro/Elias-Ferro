@@ -10,7 +10,6 @@
 
 <div style="display: inline-block" align="center">
     <img heigth="280" width="400" src="https://github-readme-stats.vercel.app/api?username=Elias-Ferro&show_icons=true&theme=dark">
-    <img heigth="280" width="246" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Ferro&theme=dark">
 </div>
 
 <div align="center">
