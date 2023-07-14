@@ -3,7 +3,7 @@
     <img src="https://static.wikia.nocookie.net/tibia/images/8/89/Dark_Paladin.gif/revision/latest/thumbnail/width/80/height/80?cb=20190829144842&path-prefix=en" alt="Paladin Tibia MMORPG - CipSot, all rights reserved"></h1>
     <a href="https://www.instagram.com/_eliasferro_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/elias-ferro-444a14267/" target="_blank">
+    <a href="https://www.linkedin.com/in/elias-ferro-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <h1></h1>
 </div>
