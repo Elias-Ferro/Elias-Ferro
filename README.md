@@ -9,7 +9,7 @@
 </div>
 
 <div style="display: inline-block" align="center">
-    <img heigth="280" width="400" src="https://github-readme-stats.vercel.app/api?username=Elias-Ferro&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=Elias-Ferro&show_icons=true&theme=transparent"
 </div>
 
 <div align="center">
@@ -18,6 +18,7 @@
         <img heigth="30" width="40" alt="html3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img heigth="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img heigth="20" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+        <img heigth="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     </div>
 </div>
 <h1></h1>
