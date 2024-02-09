@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Elias-Ferro&show_icons=true&theme=transparent"
 </div>
 
-<div align="center">
+<div align="center" gap="3px">
     <h2>Tecnologias que uso no meu dia!</h2>
     <div style="display: inline_block">
         <img heigth="30" width="40" alt="html3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -21,8 +21,6 @@
         <img heigth="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
         <img heigth="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
         <img heigth="30" width="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-        
-    </div>
 </div>
 <h1></h1>
 <div>
